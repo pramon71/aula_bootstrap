@@ -12,7 +12,11 @@ body {
     color: #fff;
 }
 
+.parceiros {
+    background-color: #58faf4;
+}
+
 .margin {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 50px;
 }
