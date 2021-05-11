@@ -16,6 +16,11 @@ body {
     background-color: #58faf4;
 }
 
+.bg-footer {
+    background-color: #000;
+    color: #fff;
+}
+
 .margin {
     padding-top: 10px;
     padding-bottom: 50px;
